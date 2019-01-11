@@ -2,8 +2,8 @@
 Criando uma imagem docker para rodar o sonar runner
 
 
-# Para Executar O sonnar runner em seu projeto basta criar um arquivo chamado
-# sonar-runner.properties contendo o token a linguagem e etc
+# Para Executar O sonnar runner em seu projeto basta criar um arquivo chamado sonar-runner.properties 
+### este arquivo deve conter o token da linguagem e etc...
 
 
 
