@@ -1,5 +1,5 @@
 
-FROM java:latest
+FROM java:8-jre-alpine
 MAINTAINER lucaslmmanoel
 
 ENV SONAR_RUNNER_VERSION 2.4
